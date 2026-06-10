@@ -2,7 +2,7 @@
     2  docker
     3  PS1="> "
     4  docker run hello-world
-    5  docker run -it unbuntu
+    5  docker run -it ubuntu
     6  clear
     7  python -V
     8  exit()
