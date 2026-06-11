@@ -13,3 +13,8 @@ dependencies = [
 members = [
     "python",
 ]
+
+[dependency-groups]
+dev = [
+    "pgcli>=4.5.0",
+]
